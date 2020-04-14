@@ -1,4 +1,6 @@
 # Laravel 5.8 Basics
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnirmesh%2Flaravel-crud-vm-with-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnirmesh%2Flaravel-crud-vm-with-admin?ref=badge_shield)
+
 This is an example application built on Laravel and Bootstrap for beginners.
 
 ## Running this web application
@@ -56,3 +58,6 @@ This is an example application built on Laravel and Bootstrap for beginners.
 - [Laravel 5.8 From Scratch: Eloquent Relationships and Image Upload (Part 4)](https://medium.com/@sagarmaheshwary31/laravel-5-8-from-scratch-eloquent-relationships-and-image-upload-49daece52a24)
 
 - <p style="text-align: center;">Star the repo to show your love!!</p>
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnirmesh%2Flaravel-crud-vm-with-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnirmesh%2Flaravel-crud-vm-with-admin?ref=badge_large)
